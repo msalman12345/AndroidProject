@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AndroidAssessment</string>
+    <string name="precipitation">Precipitation</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind">Wind</string>
+    <string name="mon">MON</string>
+    <string name="tue">TUE</string>
+    <string name="wed">WED</string>
+    <string name="thur">THU</string>
+    <string name="fri">FRI</string>
+    <string name="sat">SAT</string>
+    <string name="sun">SUN</string>
+    <string name="title">Nearby Restaurant</string>
+    <string name="msg_connection_error">No Internet Connection Available</string>
+    <string name="task_title">Android Assesment</string>
+
+
+    <!--API KEYS-->
+    <string name="API_KEY">AIzaSyDyJYWqB1uuENJHFv1Yk1k1LBYHD0ceFBY</string>
+    <string name="API_KEY_TWO">AIzaSyBtk-DoSzOpzkLsAXFXnlD5l6vnu4OzQrc</string>
+</resources>
